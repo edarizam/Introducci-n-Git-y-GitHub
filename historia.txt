@@ -9,5 +9,4 @@ Curso mi segundo semestre en el programa de
 Ingeniería de Sistemas e Informática
 
 Estoy haciendo cursos en platzi para mejorar
-Mis habilidaes como programador
-
+Mis habilidades como Backend Developer
